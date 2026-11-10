@@ -1,6 +1,6 @@
 <div align="center">
 
-### Insurance made simple.
+### Insure 123
 
 An independent insurance broker in San Jose, California, serving families and businesses since 1985.<br/>
 This is where we build the platform behind it.
