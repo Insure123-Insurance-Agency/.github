@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://insure123.com/lovable-uploads/i23-logo.png" alt="i23 by Insure123" height="72" />
+<img src="./insure123-logo.png" alt="insure123" width="300" />
 
 ### Insurance made simple.
 
@@ -15,11 +15,7 @@ This is where we build the platform behind it.
 
 ## What we do
 
-We compare coverage from leading carriers so our clients don't have to, then stay with them through renewals and claims.
-
-| Personal | Business | Events |
-|---|---|---|
-| Auto · Home · Life · Medical · Flood | General Liability · Workers' Comp · Cyber Liability · Group Medical | Weddings · Concerts · Conferences · Festivals · Private parties |
+Whatever needs protecting, personal or business, we compare coverage from leading carriers so our clients don't have to, then stay with them through renewals and claims.
 
 ## What we build
 
@@ -52,5 +48,5 @@ One platform that takes a customer from first quote to policy service:
 - **Team members:** start with the README in each repository
 
 <div align="center">
-<sub>i23 Inc. · 1494 Hamilton Ave #103, San Jose, CA 95125</sub>
+<sub>insure123 · 1494 Hamilton Ave #103, San Jose, CA 95125</sub>
 </div>
