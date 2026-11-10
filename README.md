@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./insure123-logo.png" alt="insure123" width="300" />
-
 ### Insurance made simple.
 
 An independent insurance broker in San Jose, California, serving families and businesses since 1985.<br/>
